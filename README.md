@@ -7,16 +7,13 @@ Proyek ini bertujuan untuk **mengotomatisasi klasifikasi tingkat risiko** dari h
 
 ## Struktur Folder & Penjelasan File:
 
-### 1. **Proposal/**
-- **`Proposal_Penelitian_Final_Updated.docx`**  
-  → Dokumen utama berisi latar belakang, rumusan masalah, metodologi SMART, novelty, research gap, dan lampiran teknis.
 
-### 2. **Dataset/**
+### 1. **Dataset/**
 - **`Parsed_ZAP_Report.csv`**  
   → Dataset hasil export dari ZAP report (.json) yang telah diparsing dan siap digunakan untuk training model.
 
-### 3. **Script/**
-- **`convert_json_to_csv.py`**  
+### 2. **Script/**
+- **`convert_json.py`**  
   → Script untuk **mengonversi hasil pemindaian ZAP (JSON)** menjadi format **CSV** yang lebih mudah diproses dan digunakan dalam model.
   
 - **`preprocessing.py`**  
@@ -31,11 +28,11 @@ Proyek ini bertujuan untuk **mengotomatisasi klasifikasi tingkat risiko** dari h
 - **`rf_model.pkl`**  
   → Model Machine Learning yang sudah dilatih dan disimpan agar bisa digunakan ulang untuk prediksi baru.
 
-### 4. **Gambar/**
+### 3. **Gambar/**
 - **`Figure_1.png`**  
   → **Confusion matrix** hasil visualisasi performa model terhadap data testing.
 
-### 5. **Dokumentasi Tools/**
+### 4. **Dokumentasi Tools/**
 - **`Screenshots Terminal Tools`**  
   → Bukti bahwa semua tools seperti **Python**, **pip**, **Jupyter**, **Docker**, dll sudah terinstal di **host lokal** untuk menjalankan proyek ini.
 
@@ -48,10 +45,10 @@ Proyek ini bertujuan untuk **mengotomatisasi klasifikasi tingkat risiko** dari h
   ```bash
   docker run -d -p 3000:3000 bkimminich/juice-shop
   ```
-  Ini akan menjalankan OWASP Juice Shop di http://localhost:3000.
+  Ini akan menjalankan OWASP Juice Shop di http://localhost:3000. Kemudian lakukan pemindaian menggunakan aplikasi ZAP, export reportnya dengan format json, dan jalankan `convert_json.py`.
 
 ### 2. **Preprocessing Data:**
-Setelah ZAP berhasil memindai aplikasi, jalankan script `preprocessing.py` untuk memproses data hasil pemindaian ZAP:
+Setelah itu, jalankan script `preprocessing.py` untuk memproses data hasil pemindaian ZAP:
 ```bash
 python preprocessing.py
 ```
