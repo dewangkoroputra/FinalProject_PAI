@@ -49,5 +49,6 @@ plt.ylabel("Actual")
 plt.tight_layout()
 plt.show()
 
+# === STEP 8: Simpan Model yang sudah dilatih ===
 joblib.dump(clf, "rf_model.pkl")  # Menyimpan model
 print("Model berhasil disimpan ke file rf_model.pkl")
