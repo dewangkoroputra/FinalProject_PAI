@@ -31,7 +31,15 @@ print(report)
 with open("classification_report.txt", "w") as f:
     f.write(report)
 
-# === STEP 6: Confusion Matrix ===
+# === STEP 6: Hitung jumlah berdasarkan tingkat risiko ===
+risk_counts = df['Risk_encoded'].value_counts()
+
+# Mencetak jumlah risiko berdasarkan kategori
+risk_levels = ["Low", "Medium (High)", "High"]  # Sesuaikan dengan encoding yang digunakan
+for risk, count in zip(risk_levels, risk_counts):
+    print(f"{risk}: {count} kerentanan")
+
+# === STEP 7: Confusion Matrix ===
 cm = confusion_matrix(y_test, y_pred)
 plt.figure(figsize=(8, 6))
 sns.heatmap(cm, annot=True, fmt="d", cmap="Blues")
@@ -41,6 +49,5 @@ plt.ylabel("Actual")
 plt.tight_layout()
 plt.show()
 
-# === STEP 7: Simpan Model yang sudah dilatih ===
 joblib.dump(clf, "rf_model.pkl")  # Menyimpan model
 print("Model berhasil disimpan ke file rf_model.pkl")
