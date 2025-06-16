@@ -1,0 +1,466 @@
+Alert,Risk Level,CWE ID,URL
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/ftp
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/ftp/
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/ftp/coupons_2013.md.bak
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/ftp/eastere.gg
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/ftp/encrypt.pyc
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/ftp/package.json.bak
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/ftp/quarantine
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/ftp/suspicious_errors.yml
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/assets/public/assets/public/favicon_js.ico
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/assets/public/favicon_js.ico
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/assets/public/main.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/assets/public/polyfills.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/assets/public/runtime.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/assets/public/styles.css
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/assets/public/vendor.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/fileServer.js:43:13
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/fileServer.js:59:18
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/main.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/polyfills.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/runtime.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/styles.css
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/build/routes/vendor.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/assets/public/favicon_js.ico
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/favicon_js.ico
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/main.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/polyfills.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/runtime.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/styles.css
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/vendor.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:280:10
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:286:9
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:328:13
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:365:14
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:376:14
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:421:3
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/layer.js:95:5
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/main.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/polyfills.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/runtime.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/styles.css
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/express/lib/router/vendor.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/assets/public/favicon_js.ico
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/favicon_js.ico
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/main.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/polyfills.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/runtime.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/styles.css
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/vendor.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/index.js:145:39
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/main.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/polyfills.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/runtime.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/styles.css
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/juice-shop/node_modules/serve-index/vendor.js
+Content Security Policy (CSP) Header Not Set,Medium (High),693,http://localhost:3000/sitemap.xml
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/assets/public/favicon_js.ico
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/acquisitions.md
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/announcement_encrypted.md
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/coupons_2013.md.bak
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/eastere.gg
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/encrypt.pyc
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/incident-support.kdbx
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/legal.md
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/package.json.bak
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/quarantine
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/quarantine/juicy_malware_linux_amd_64.url
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/quarantine/juicy_malware_linux_arm_64.url
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/quarantine/juicy_malware_macos_64.url
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/quarantine/juicy_malware_windows_64.exe.url
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/ftp/suspicious_errors.yml
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/assets/public/assets/public/favicon_js.ico
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/assets/public/favicon_js.ico
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/assets/public/main.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/assets/public/polyfills.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/assets/public/runtime.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/assets/public/styles.css
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/assets/public/vendor.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/fileServer.js:43:13
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/fileServer.js:59:18
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/main.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/polyfills.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/runtime.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/styles.css
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/build/routes/vendor.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/assets/public/favicon_js.ico
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/favicon_js.ico
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/main.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/polyfills.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/runtime.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/styles.css
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/vendor.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:280:10
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:286:9
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:328:13
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:365:14
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:376:14
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:421:3
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/layer.js:95:5
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/main.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/polyfills.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/runtime.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/styles.css
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/express/lib/router/vendor.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/assets/public/favicon_js.ico
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/favicon_js.ico
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/main.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/polyfills.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/runtime.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/styles.css
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/vendor.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/index.js:145:39
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/main.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/polyfills.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/runtime.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/styles.css
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/juice-shop/node_modules/serve-index/vendor.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/main.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/polyfills.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/robots.txt
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/runtime.js
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/sitemap.xml
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/styles.css
+Cross-Domain Misconfiguration,Medium (Medium),264,http://localhost:3000/vendor.js
+Hidden File Found,Medium (Low),538,http://localhost:3000/._darcs
+Hidden File Found,Medium (Low),538,http://localhost:3000/.bzr
+Hidden File Found,Medium (Low),538,http://localhost:3000/.hg
+Hidden File Found,Medium (Low),538,http://localhost:3000/BitKeeper
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/assets/public/favicon_js.ico
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/assets/public/favicon_js.ico
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/favicon_js.ico
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/favicon_js.ico
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/main.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/main.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/polyfills.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/polyfills.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/runtime.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/runtime.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/styles.css
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/styles.css
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/vendor.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/assets/public/vendor.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/fileServer.js:43:13
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/fileServer.js:43:13
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/fileServer.js:59:18
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/fileServer.js:59:18
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/main.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/main.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/polyfills.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/polyfills.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/runtime.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/runtime.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/styles.css
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/styles.css
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/vendor.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/build/routes/vendor.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/assets/public/favicon_js.ico
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/assets/public/favicon_js.ico
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/favicon_js.ico
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/favicon_js.ico
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/main.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/main.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/polyfills.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/polyfills.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/runtime.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/runtime.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/styles.css
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/styles.css
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/vendor.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/vendor.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:280:10
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:280:10
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:286:9
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:286:9
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:328:13
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:328:13
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:365:14
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:365:14
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:376:14
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:376:14
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:421:3
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:421:3
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/layer.js:95:5
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/layer.js:95:5
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/main.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/main.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/polyfills.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/polyfills.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/runtime.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/runtime.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/styles.css
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/styles.css
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/vendor.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/express/lib/router/vendor.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/assets/public/favicon_js.ico
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/assets/public/favicon_js.ico
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/favicon_js.ico
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/favicon_js.ico
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/main.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/main.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/polyfills.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/polyfills.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/runtime.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/runtime.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/styles.css
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/styles.css
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/vendor.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/vendor.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/index.js:145:39
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/index.js:145:39
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/main.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/main.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/polyfills.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/polyfills.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/runtime.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/runtime.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/styles.css
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/styles.css
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/vendor.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/juice-shop/node_modules/serve-index/vendor.js
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/sitemap.xml
+Cross-Domain JavaScript Source File Inclusion,Low (Medium),829,http://localhost:3000/sitemap.xml
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/assets/public/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/fileServer.js:43:13
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/fileServer.js:43:13
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/fileServer.js:43:13
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/fileServer.js:59:18
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/fileServer.js:59:18
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/fileServer.js:59:18
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/build/routes/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:280:10
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:280:10
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:280:10
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:286:9
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:286:9
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:286:9
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:328:13
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:328:13
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:328:13
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:365:14
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:365:14
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:365:14
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:376:14
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:376:14
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:376:14
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:421:3
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:421:3
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:421:3
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/layer.js:95:5
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/layer.js:95:5
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/layer.js:95:5
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/express/lib/router/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/favicon_js.ico
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/index.js:145:39
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/index.js:145:39
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/index.js:145:39
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/polyfills.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/runtime.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/juice-shop/node_modules/serve-index/vendor.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/main.js
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/sitemap.xml
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/sitemap.xml
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/sitemap.xml
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/styles.css
+Timestamp Disclosure - Unix,Low (Low),497,http://localhost:3000/styles.css
+Information Disclosure - Suspicious Comments,Informational (Low),615,http://localhost:3000/main.js
+Information Disclosure - Suspicious Comments,Informational (Low),615,http://localhost:3000/vendor.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/ftp/
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/assets/public/assets/public/favicon_js.ico
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/assets/public/favicon_js.ico
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/assets/public/main.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/assets/public/polyfills.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/assets/public/runtime.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/assets/public/styles.css
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/assets/public/vendor.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/fileServer.js:43:13
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/fileServer.js:59:18
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/main.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/polyfills.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/runtime.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/styles.css
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/build/routes/vendor.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/assets/public/favicon_js.ico
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/favicon_js.ico
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/main.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/polyfills.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/runtime.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/styles.css
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/assets/public/vendor.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:280:10
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:286:9
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:328:13
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:365:14
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:376:14
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/index.js:421:3
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/layer.js:95:5
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/main.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/polyfills.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/runtime.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/styles.css
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/express/lib/router/vendor.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/assets/public/favicon_js.ico
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/favicon_js.ico
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/main.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/polyfills.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/runtime.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/styles.css
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/assets/public/vendor.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/index.js:145:39
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/main.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/polyfills.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/runtime.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/styles.css
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/juice-shop/node_modules/serve-index/vendor.js
+Modern Web Application,Informational (Medium),-1,http://localhost:3000/sitemap.xml
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets/public
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets/public
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets/public
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets/public
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets/public
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets/public
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets/public
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets/public
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets/public
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets/public
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets/public
+User Agent Fuzzer,Informational (Medium),0,http://localhost:3000/assets/public
